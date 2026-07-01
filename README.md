@@ -29,6 +29,7 @@ The objective of this project is to:
 - **Files Used:** 12 Monthly Trip Data Files
 
 The original datasets used for this project are included in the `data/raw_data/` directory.
+
 ---
 
 ## Tools & Technologies
@@ -106,7 +107,6 @@ Cyclistic-Bike-Share-Analysis/
   - Final business presentation containing key findings, insights, visualizations, and recommendations
 
 ---
-
 
 ## Acknowledgements
 
