@@ -28,7 +28,7 @@ The objective of this project is to:
 - **Analysis Period:** April 2025 – March 2026
 - **Files Used:** 12 Monthly Trip Data Files
 
-The original datasets used for this project are included in the `data/raw_data/` directory.
+**Note:** Due to GitHub file size limitations, the original trip datasets and cleaned merged dataset are not included in this repository. The complete data processing workflow is documented in the Jupyter Notebook, and the summary statistics and presentation provide the analytical outputs.
 
 ---
 
@@ -77,13 +77,8 @@ Cyclistic-Bike-Share-Analysis/
 ├── README.md
 │
 ├── data/
-│   ├── raw_data/
-│   │   └── 12 Monthly CSV Files
-│   │
-│   ├── processed_data/
-│   │   ├── Cyclistic_Cleaned_Dataset.xlsx
-│   │   └── Summary_Statistics.xls
-│
+│   ├── Summary_Statistics
+│    
 ├── notebooks/
 │   └── Cyclistic_Bike_Share_Analysis.ipynb
 │
